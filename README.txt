@@ -1,0 +1,1 @@
+Archivo con dos funciones, generar un dado de 6 caras y una moneda, y otro que los ejecuta
